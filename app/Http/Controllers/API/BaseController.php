@@ -46,7 +46,7 @@ class BaseController extends Controller
     }
 
     /**
-     * return error response.
+     * return service class response.
      *
      * @return \Illuminate\Http\Response
      */
